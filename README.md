@@ -3,8 +3,7 @@
 An interactive Excel dashboard analyzing customer churn behavior using the **Customer Churn Records** dataset.
 
 ## 📈 Preview
-![Dashboard Screenshot](dashboard_view.jpg)
-
+![Dashboard Screenshot](dashboard_view.jpg.png)
 ## 🛠️ Tools Used
 * **Microsoft Excel** (Pivot Tables, Pivot Charts, KPI Cards, Slicers)
 * **Data Cleaning & Engineering** (Power Query / Excel Formulas)
